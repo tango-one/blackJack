@@ -1,1 +1,2 @@
 # blackJack
+A blackJack game
